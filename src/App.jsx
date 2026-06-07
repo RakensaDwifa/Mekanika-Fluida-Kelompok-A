@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Zap, Printer } from 'lucide-react';
-import { useHydropower } from './hooks/useHydropower';
+import { useHydropower } from './hooks/useHydroPower';
 import CalculatorForm from './components/CalculatorForm';
 import ResultDisplay from './components/ResultDisplay';
 import HydroVisualizer from './components/HydroVisualizer';
